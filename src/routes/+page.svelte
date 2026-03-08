@@ -20,6 +20,11 @@
       link: "https://github.com/lezzthanthree/SEKAI-Stories",
       desc: "it's not really my project but i contributed to it by making some french localization. It's a really cool project give it a try.",
     },
+    {
+      name: "SekaiBackground",
+      link: "https://github.com/39Choko/SekaiBackground",
+      desc: "is a rust cli tool that changes your wallpaper to a Project Sekai character card. THANKS TO SEKAI VIEWER!!!",
+    },
   ];
 
   const colors = [
